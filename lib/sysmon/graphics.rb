@@ -1,0 +1,2 @@
+# Imports
+require "radeonnoise"
